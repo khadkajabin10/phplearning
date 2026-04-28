@@ -16,6 +16,6 @@ $conn=mysqli_connect($db_server,
 
 }
  if($conn){
-echo"you are connectd<br>";
+//echo"you are connectd<br>";
  }
 ?>
